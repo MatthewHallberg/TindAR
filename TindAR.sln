@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TindAR", "Assembly-CSharp.csproj", "{196D94F1-9C6D-F1EA-997D-76C785A9337C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TindAR", "Assembly-CSharp-Editor.csproj", "{8321C799-DBE6-1B1A-C412-B3CC565B6C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196D94F1-9C6D-F1EA-997D-76C785A9337C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196D94F1-9C6D-F1EA-997D-76C785A9337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196D94F1-9C6D-F1EA-997D-76C785A9337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196D94F1-9C6D-F1EA-997D-76C785A9337C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8321C799-DBE6-1B1A-C412-B3CC565B6C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8321C799-DBE6-1B1A-C412-B3CC565B6C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8321C799-DBE6-1B1A-C412-B3CC565B6C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8321C799-DBE6-1B1A-C412-B3CC565B6C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
